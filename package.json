@@ -4,7 +4,7 @@
   "description": "wa bot untuk anti viewonce",
   "main": "index.js",
   "scripts": {
-    "moera": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "wa",
